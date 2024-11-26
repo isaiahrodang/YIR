@@ -1,1 +1,1 @@
-Sheet music is hosted in this folder
+Sheet music for my compositions are housed in this branch
